@@ -1,0 +1,1 @@
+Open index.html to preview the website. Keep the images folder next to index.html. Upload the entire folder to your web host. Photos are numbered ccya-01.jpg through ccya-10.jpg in the order provided.
